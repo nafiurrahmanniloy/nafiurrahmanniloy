@@ -1,21 +1,19 @@
-
-
-<h1 align="center">Hi 👋, I'm Nafiur Rahman Niloy</h1>
-<h3 align="center">3rd Year CSE Student at AIUB</h3>
+<h1 align="center">Hi there, I'm Nafiur Rahman Niloy</h1>
+<h3 align="center">CSE Student at AIUB</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nafiurrahmanniloy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=nafiurrahmanniloy&label=Profile%20views&color=1DA1F2&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nafiurrahmanniloy&theme=gruvbox&no-frame=true&row=1&column=7" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=nafiurrahmanniloy&theme=algolia&no-frame=true&row=1&column=7" alt="Trophies" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://twitter.com/rahmanniloy10" target="blank">
-    <img src="https://img.shields.io/twitter/follow/rahmanniloy10?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+    <img src="https://img.shields.io/twitter/follow/rahmanniloy10?logo=twitter&style=for-the-badge&color=1DA1F2" alt="Twitter Follow" />
   </a>
 </p>
 
@@ -61,13 +59,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nafiurrahmanniloy&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nafiurrahmanniloy&show_icons=true&locale=en&layout=compact&title_color=1DA1F2&text_color=ffffff&bg_color=000000&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nafiurrahmanniloy&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nafiurrahmanniloy&show_icons=true&locale=en&title_color=1DA1F2&text_color=ffffff&bg_color=000000&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nafiurrahmanniloy&" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nafiurrahmanniloy&theme=black-ice&hide_border=true&stroke=0000&background=000000&ring=1DA1F2&fire=1DA1F2&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=1DA1F2&sideLabels=1DA1F2&dates=ffffff" alt="GitHub Streak" />
 </p>
