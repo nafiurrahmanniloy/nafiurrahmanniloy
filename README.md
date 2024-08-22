@@ -1,21 +1,5 @@
-<h1 align="center">Hi there, I'm Nafiur Rahman Niloy</h1>
-<h3 align="center">CSE Student at AIUB</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nafiurrahmanniloy&label=Profile%20views&color=1DA1F2&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nafiurrahmanniloy&theme=algolia&no-frame=true&row=1&column=7" alt="Trophies" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://twitter.com/rahmanniloy10" target="blank">
-    <img src="https://img.shields.io/twitter/follow/rahmanniloy10?logo=twitter&style=for-the-badge&color=1DA1F2" alt="Twitter Follow" />
-  </a>
-</p>
+<h1 align="center">Hi 👋, I'm Nafiur Rahman Niloy</h1>
+<h3 align="center">3rd Year CSE Student at AIUB</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
