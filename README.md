@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nafiur Rahman Niloy</h1>
-<h3 align="center">3rd Year CSE Student at AIUB</h3>
+<h1 align="center">Hi, I'm Nafiur Rahman Niloy</h1>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
