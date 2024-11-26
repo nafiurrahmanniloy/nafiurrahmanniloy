@@ -53,5 +53,4 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nafiurrahmanniloy&theme=black-ice&hide_border=true&stroke=0000&background=000000&ring=1DA1F2&fire=1DA1F2&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=1DA1F2&sideLabels=1DA1F2&dates=ffffff" alt="GitHub Streak" />
 </p>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nafiurrahmanniloy&label=Profile%20views&color=0e75b6&style=flat" alt="nafiurrahmanniloy" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nafiurrahmanniloy&label=Profile%20views&color=0e75b6&style=flat" alt="nafiurrahmanniloy" /> </p>
