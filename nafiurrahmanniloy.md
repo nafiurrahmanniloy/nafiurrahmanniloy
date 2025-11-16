@@ -96,8 +96,6 @@
 - **LLM Integration** (HuggingFace, Gemini)
 - **Pinecone Vector Database** for semantic search
 
-📍 [View Project](https://github.com/nafiurrahmanniloy/multilingual-rag-system)
-
 ---
 
 ### 🤖 AI Agents & Automation (Coming Soon)
