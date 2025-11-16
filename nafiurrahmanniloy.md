@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=1DA1F2&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Nafiur+Rahman+Niloy;CSE+Student+at+AIUB;Learning+ML+%26+Data+Science;Building+Projects+%26+Growing+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=1DA1F2&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Nafiur+Rahman+Niloy;CSE+Student+at+AIUB;Building+AI+Agents+with+n8n+%26+LangGraph;Exploring+Agentic+AI+%F0%9F%A4%96" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -19,58 +19,106 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-👋 Hey! I'm **Nafiur Rahman Niloy**, a CSE student passionate about coding and technology.
+👋 Hey! I'm **Nafiur Rahman Niloy**, a CSE student passionate about **AI Agents** and **Automation**.
 
-🎓 Currently studying at **AIUB** and exploring the world of **Data Science** and **Machine Learning**.
+🎓 Currently studying at **AIUB** and diving deep into **Agentic AI Development** - the cutting edge of AI.
 
-📚 Learning through **hands-on projects** - building ML models, working with datasets, and experimenting with new technologies.
+🤖 Specialized in building **intelligent AI agents** using:
+- **n8n** - no-code/low-code workflow automation
+- **LangGraph** - building stateful AI agents with advanced control flow
+- **LangChain** - orchestrating LLM-powered applications
+- **RAG Systems** - retrieval-augmented generation for smarter agents
 
-🌱 Right now, I'm diving into **NLP** and **Deep Learning** while strengthening my Python skills.
+🧠 Currently exploring how AI agents can think, plan, and execute complex tasks autonomously.
 
-💡 I love solving problems with code and sharing my learning journey through projects.
+🌱 My mission: Create intelligent agents that solve real-world problems through automation and AI.
 
-📫 Let's connect: **nafiurrahman52@gmail.com**
+💡 Passionate about the intersection of **Machine Learning**, **Automation**, and **Intelligent Systems**.
+
+📫 Let's collaborate: **nafiurrahman52@gmail.com**
 
 <br clear="both">
 
 ---
 
-## 🔥 What I'm Learning
+## 🔥 Current Expertise
 
-- 🤖 **Machine Learning** with scikit-learn
-- 🧠 **Deep Learning** fundamentals
-- 📊 **Data Analysis** with Pandas & NumPy
-- 💬 **Natural Language Processing**
-- 🌐 **Web Development** basics (HTML, CSS, JavaScript, PHP)
-- 🐍 Improving my **Python** skills every day
+| 🤖 AI Agents | 🔗 Orchestration | 📊 ML Fundamentals |
+|---|---|---|
+| LangGraph | LangChain | scikit-learn |
+| n8n Automation | RAG Systems | Deep Learning |
+| Autonomous Workflows | NLP Integration | Data Analysis |
+| Agent Planning | Multi-step Reasoning | Pandas & NumPy |
 
 ---
 
-## 🛠️ Technologies I Use
+## 🛠️ Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+### 🤖 AI Agent Development
+![LangGraph](https://img.shields.io/badge/LangGraph-121212?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EC1159?style=for-the-badge&logo=n8n&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-### ML & Data Science
+### 🧠 ML & Deep Learning
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### Web Development
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### 🌐 Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### Tools
+### ⚙️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-1D72B8?style=for-the-badge&logo=pinecone&logoColor=white)
+
+---
+
+## 🎯 Featured Projects
+
+### 🌍 Multilingual RAG System
+**Your cutting-edge project!** An intelligent system that combines:
+- **RAG Architecture** for knowledge retrieval
+- **Multilingual Support** across languages
+- **n8n Integration** for workflow automation
+- **LLM Integration** (HuggingFace, Gemini)
+- **Pinecone Vector Database** for semantic search
+
+📍 [View Project](https://github.com/nafiurrahmanniloy/multilingual-rag-system)
+
+---
+
+### 🤖 AI Agents & Automation (Coming Soon)
+Currently building advanced projects in:
+- **n8n Workflows** - Complex multi-step automations
+- **LangGraph Agents** - Stateful AI agents with reasoning
+- **AI-Powered Tools** - Agents that can plan and execute tasks
+
+---
+
+## 📊 Other Projects
+
+<div align="center">
+
+[![RFM Analysis](https://github-readme-stats.vercel.app/api/pin/?username=nafiurrahmanniloy&repo=RFM-Analysis-using-K-means-clustering&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1DA1F2&icon_color=1DA1F2&text_color=c9d1d9)](https://github.com/nafiurrahmanniloy/RFM-Analysis-using-K-means-clustering)
+[![Deep Learning Practice](https://github-readme-stats.vercel.app/api/pin/?username=nafiurrahmanniloy&repo=Deep-Learning-Practice&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1DA1F2&icon_color=1DA1F2&text_color=c9d1d9)](https://github.com/nafiurrahmanniloy/Deep-Learning-Practice)
+
+[![ML Practice](https://github-readme-stats.vercel.app/api/pin/?username=nafiurrahmanniloy&repo=ML_Practice&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1DA1F2&icon_color=1DA1F2&text_color=c9d1d9)](https://github.com/nafiurrahmanniloy/ML_Practice)
+[![Mail HAM SPAM Detection](https://github-readme-stats.vercel.app/api/pin/?username=nafiurrahmanniloy&repo=Mail-HAM-SPAM-Detection&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1DA1F2&icon_color=1DA1F2&text_color=c9d1d9)](https://github.com/nafiurrahmanniloy/Mail-HAM-SPAM-Detection)
+
+</div>
 
 ---
 
@@ -87,25 +135,41 @@
 
 ---
 
-## 🎯 My Projects
-
-<div align="center">
-
-[![RFM Analysis](https://github-readme-stats.vercel.app/api/pin/?username=nafiurrahmanniloy&repo=RFM-Analysis-using-K-means-clustering&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1DA1F2&icon_color=1DA1F2&text_color=c9d1d9)](https://github.com/nafiurrahmanniloy/RFM-Analysis-using-K-means-clustering)
-[![Multilingual RAG](https://github-readme-stats.vercel.app/api/pin/?username=nafiurrahmanniloy&repo=multilingual-rag-system&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1DA1F2&icon_color=1DA1F2&text_color=c9d1d9)](https://github.com/nafiurrahmanniloy/multilingual-rag-system)
-
-[![Deep Learning Practice](https://github-readme-stats.vercel.app/api/pin/?username=nafiurrahmanniloy&repo=Deep-Learning-Practice&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1DA1F2&icon_color=1DA1F2&text_color=c9d1d9)](https://github.com/nafiurrahmanniloy/Deep-Learning-Practice)
-[![ML Practice](https://github-readme-stats.vercel.app/api/pin/?username=nafiurrahmanniloy&repo=ML_Practice&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1DA1F2&icon_color=1DA1F2&text_color=c9d1d9)](https://github.com/nafiurrahmanniloy/ML_Practice)
-
-</div>
-
----
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nafiurrahmanniloy&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
+
+---
+
+## 🌱 What I'm Exploring
+
+AI Agents Development
+├── LangGraph
+│ ├── State Management
+│ ├── Tool Use & Planning
+│ └── Multi-step Reasoning
+├── n8n Automation
+│ ├── Complex Workflows
+│ ├── API Integrations
+│ └── Data Processing Pipelines
+└── Agent Architectures
+├── Reflection-based Agents
+├── Tool-using Agents
+└── Multi-agent Systems
+
+
+
+---
+
+## 💼 Why AI Agents Matter
+
+I'm passionate about **Agentic AI** because it represents the future:
+- 🚀 **Autonomous Problem Solving** - Agents that think and plan
+- 🔗 **Tool Integration** - Agents that can use any API or tool
+- 🧠 **Reasoning at Scale** - Multi-step reasoning with LLMs
+- ⚡ **Workflow Automation** - Intelligent, adaptive workflows
 
 ---
 
@@ -144,6 +208,6 @@
 
 <div align="center">
   
-### ⭐ Show some love by starring my repositories!
+### ⭐ If you find my work interesting, show some love by starring my repositories!
   
 </div>
