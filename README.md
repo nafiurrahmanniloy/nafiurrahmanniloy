@@ -6,7 +6,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </p>
 
-<h3 align="center">🎓 Computer Science Engineering Student at AIUB | Dhaka, Bangladesh 🇧🇩</h3>
+<h3 align="center">🎓 Computer Science Engineering Student at AIUB | Dhaka, Bangladesh </h3>
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/nafiurrahmanniloy?label=Followers&style=for-the-badge&color=1DA1F2" alt="followers" />
@@ -96,7 +96,6 @@
 - **LLM Integration** (HuggingFace, Gemini)
 - **Pinecone Vector Database** for semantic search
 
-📍 [View Project](https://github.com/nafiurrahmanniloy/multilingual-rag-system)
 
 ---
 
