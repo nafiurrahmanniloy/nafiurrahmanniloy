@@ -9,8 +9,8 @@
 <h3 align="center">🎓 Computer Science Engineering Student at AIUB | Dhaka, Bangladesh 🇧🇩</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nafiurrahmanniloy&label=Profile%20Views&color=1DA1F2&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/nafiurrahmanniloy?label=Followers&style=for-the-badge&color=1DA1F2" alt="followers" />
+  <img src="https://img.shields.io/github/stars/nafiurrahmanniloy?label=Stars&style=for-the-badge&color=1DA1F2" alt="stars" />
 </p>
 
 ---
@@ -145,21 +145,16 @@ Currently building advanced projects in:
 
 ## 🌱 What I'm Exploring
 
-AI Agents Development
-├── LangGraph
-│ ├── State Management
-│ ├── Tool Use & Planning
-│ └── Multi-step Reasoning
-├── n8n Automation
-│ ├── Complex Workflows
-│ ├── API Integrations
-│ └── Data Processing Pipelines
-└── Agent Architectures
-├── Reflection-based Agents
-├── Tool-using Agents
-└── Multi-agent Systems
+<table>
+<tr><td>
 
+**AI Agents Development**
+- 🔹 **LangGraph** - State Management, Tool Use & Planning, Multi-step Reasoning
+- 🔹 **n8n Automation** - Complex Workflows, API Integrations, Data Processing Pipelines
+- 🔹 **Agent Architectures** - Reflection-based Agents, Tool-using Agents, Multi-agent Systems
 
+</td></tr>
+</table>
 
 ---
 
