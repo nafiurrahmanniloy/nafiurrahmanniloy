@@ -98,35 +98,14 @@
 
 ---
 
-### 🤖 AI Agents & Automation (Coming Soon)
-Currently building advanced projects in:
-- **n8n Workflows** - Complex multi-step automations
-- **LangGraph Agents** - Stateful AI agents with reasoning
-- **AI-Powered Tools** - Agents that can plan and execute tasks
-
----
-
 ## 📊 Other Projects
 
-<div align="center">
-
-<a href="https://github.com/nafiurrahmanniloy/RFM-Analysis-using-K-means-clustering">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nafiurrahmanniloy&repo=RFM-Analysis-using-K-means-clustering&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1DA1F2&icon_color=1DA1F2&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/nafiurrahmanniloy/Deep-Learning-Practice">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nafiurrahmanniloy&repo=Deep-Learning-Practice&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1DA1F2&icon_color=1DA1F2&text_color=c9d1d9" />
-</a>
-
-<br/>
-
-<a href="https://github.com/nafiurrahmanniloy/ML_Practice">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nafiurrahmanniloy&repo=ML_Practice&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1DA1F2&icon_color=1DA1F2&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/nafiurrahmanniloy/Mail-HAM-SPAM-Detection">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nafiurrahmanniloy&repo=Mail-HAM-SPAM-Detection&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1DA1F2&icon_color=1DA1F2&text_color=c9d1d9" />
-</a>
-
-</div>
+| Project | Description | Tech Stack |
+|:---:|:---:|:---:|
+| **[ML_Basic](https://github.com/nafiurrahmanniloy/ML_Basic)** | Comprehensive guide to Machine Learning fundamentals | `Python` `Scikit-Learn` |
+| **[RFM Analysis](https://github.com/nafiurrahmanniloy/RFM-Analysis-using-K-means-clustering)** | Customer segmentation using K-Means Clustering | `Python` `Pandas` `K-Means` |
+| **[Deep Learning](https://github.com/nafiurrahmanniloy/Deep-Learning-Practice)** | Neural network implementations & experiments | `TensorFlow` `Keras` |
+| **[Spam Detection](https://github.com/nafiurrahmanniloy/Mail-HAM-SPAM-Detection)** | Email classification using Naive Bayes | `NLP` `Python` |
 
 ---
 
