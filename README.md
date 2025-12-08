@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=1DA1F2&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Nafiur+Rahman+Niloy;CSE+Student+at+AIUB;Exploring+Agentic+AI+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=1DA1F2&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I%27m+Nafiur+Rahman+Niloy;CSE+Student+at+AIUB;Exploring+Agentic+AI+%F0%9F%A4%96" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -96,7 +96,6 @@
 - **LLM Integration** (HuggingFace, Gemini)
 - **Pinecone Vector Database** for semantic search
 
-
 ---
 
 ### 🤖 AI Agents & Automation (Coming Soon)
@@ -129,7 +128,7 @@ Currently building advanced projects in:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nafiurrahmanniloy&theme=tokyonight&hide_border=true&background=0d1117&stroke=1DA1F2&ring=1DA1F2&fire=FF6B35&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=1DA1F2&sideLabels=1DA1F2&dates=8b949e" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=nafiurrahmanniloy&theme=tokyonight&hide_border=true&background=0d1117&stroke=1DA1F2&ring=1DA1F2&fire=FF6B35&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=1DA1F2&sideLabels=1DA1F2&dates=8b949e" alt="GitHub Streak" />
 </p>
 
 ---
