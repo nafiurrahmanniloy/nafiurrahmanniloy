@@ -110,11 +110,21 @@ Currently building advanced projects in:
 
 <div align="center">
 
-[![RFM Analysis](https://github-readme-stats.vercel.app/api/pin/?username=nafiurrahmanniloy&repo=RFM-Analysis-using-K-means-clustering&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1DA1F2&icon_color=1DA1F2&text_color=c9d1d9)](https://github.com/nafiurrahmanniloy/RFM-Analysis-using-K-means-clustering)
-[![Deep Learning Practice](https://github-readme-stats.vercel.app/api/pin/?username=nafiurrahmanniloy&repo=Deep-Learning-Practice&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1DA1F2&icon_color=1DA1F2&text_color=c9d1d9)](https://github.com/nafiurrahmanniloy/Deep-Learning-Practice)
+<a href="https://github.com/nafiurrahmanniloy/RFM-Analysis-using-K-means-clustering">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nafiurrahmanniloy&repo=RFM-Analysis-using-K-means-clustering&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1DA1F2&icon_color=1DA1F2&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/nafiurrahmanniloy/Deep-Learning-Practice">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nafiurrahmanniloy&repo=Deep-Learning-Practice&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1DA1F2&icon_color=1DA1F2&text_color=c9d1d9" />
+</a>
 
-[![ML Practice](https://github-readme-stats.vercel.app/api/pin/?username=nafiurrahmanniloy&repo=ML_Practice&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1DA1F2&icon_color=1DA1F2&text_color=c9d1d9)](https://github.com/nafiurrahmanniloy/ML_Practice)
-[![Mail HAM SPAM Detection](https://github-readme-stats.vercel.app/api/pin/?username=nafiurrahmanniloy&repo=Mail-HAM-SPAM-Detection&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1DA1F2&icon_color=1DA1F2&text_color=c9d1d9)](https://github.com/nafiurrahmanniloy/Mail-HAM-SPAM-Detection)
+<br/>
+
+<a href="https://github.com/nafiurrahmanniloy/ML_Practice">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nafiurrahmanniloy&repo=ML_Practice&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1DA1F2&icon_color=1DA1F2&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/nafiurrahmanniloy/Mail-HAM-SPAM-Detection">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nafiurrahmanniloy&repo=Mail-HAM-SPAM-Detection&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1DA1F2&icon_color=1DA1F2&text_color=c9d1d9" />
+</a>
 
 </div>
 
