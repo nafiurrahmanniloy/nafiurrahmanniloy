@@ -1,14 +1,14 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F0C29,50:302B63,100:24243e&height=200&section=header&text=Nafiur%20Rahman%20Niloy&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=55&stroke=8B5CF6&strokeWidth=2"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4776E6,100:8E54E9&height=200&section=header&text=Nafiur%20Rahman%20Niloy&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=AI%20Agent%20Engineer%20%7C%20Voice%20AI%20%7C%20SaaS%20Builder&descAlignY=72&descSize=16&descColor=cccccc"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=🤖+Agentic+AI+Engineer;🎙️+Voice+Agent+Builder;🌐+SaaS+%26+Full-Stack+Developer;⚡+AI+Backend+Architect;🧠+ML+%26+Automation+Specialist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=🤖+Building+Autonomous+AI+Agents;🎙️+Voice+Agents+%26+AI+Pipelines;🌐+Full-Stack+SaaS+Products;⚡+Automating+Everything+with+n8n;🧠+ML+%26+AI+Backend+Engineering)](https://git.io/typing-svg)
 
 <br/>
 
 [![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:nafiurrahman52@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/nafiur-rahman-niloy)
-[![Twitter](https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=ffffff)](https://twitter.com/rahmanniloy10)
+[![Twitter](https://img.shields.io/badge/Twitter%20%2F%20X-0d1117?style=for-the-badge&logo=x&logoColor=ffffff)](https://twitter.com/rahmanniloy10)
 [![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/rahman__niloy)
 
 <br/>
@@ -19,91 +19,92 @@
 
 </div>
 
-<br/>
+---
 
-## 〔 What I Build 〕
+## ⚡ What I Build
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
 **🤖 Agentic AI Systems**
-> Multi-agent architectures that think, plan & execute autonomously using LangGraph, LangChain & custom agent loops
+Multi-agent architectures that think, plan & execute — LangGraph, LangChain, custom agent loops
 
 **🎙️ Voice AI & Agents**
-> End-to-end voice pipelines — STT → LLM → TTS — real-time voice agents for production use cases
+End-to-end voice pipelines: STT → LLM → TTS — real-time voice agents for production
 
-**🌐 SaaS & Full-Stack Products**
-> Complete SaaS products with Next.js frontends, AI-powered backends, auth, billing & deployment
+**🌐 Full-Stack SaaS**
+Complete SaaS products with Next.js, AI backends, auth, billing & cloud deployment
 
 </td>
 <td width="50%" valign="top">
 
 **⚡ Automation Pipelines**
-> Complex n8n workflows connecting AI, APIs, databases & communication tools into zero-touch systems
+Complex n8n workflows connecting AI, APIs & databases into zero-touch systems
 
 **🧠 AI Backends & APIs**
-> FastAPI backends powering LLM features, RAG systems, vector search & real-time AI endpoints
+FastAPI backends powering RAG systems, vector search & real-time LLM endpoints
 
-**📊 ML & Computer Vision**
-> End-to-end ML pipelines from data preprocessing to model deployment — NLP, DL, clustering
+**📊 ML & Deep Learning**
+End-to-end ML pipelines: NLP, classification, clustering, deep learning models
 
 </td>
 </tr>
 </table>
 
-<br/>
+---
 
-## 〔 Tech Arsenal 〕
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-**Agentic AI**
+**🤖 Agentic AI**
 
 ![LangGraph](https://img.shields.io/badge/LangGraph-8B5CF6?style=flat-square&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-7C3AED?style=flat-square&logo=chainlink&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-7C3AED?style=flat-square&logo=python&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EC1159?style=flat-square&logo=n8n&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=flat-square&logo=robot&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 
-**Voice AI**
+**🎙️ Voice AI**
 
-![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&logo=soundcloud&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&logoColor=white)
 ![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white)
-![Deepgram](https://img.shields.io/badge/Deepgram-101820?style=flat-square&logo=deepgram&logoColor=13EF93)
-![Vapi](https://img.shields.io/badge/Vapi-5865F2?style=flat-square&logo=voice&logoColor=white)
+![Deepgram](https://img.shields.io/badge/Deepgram-101820?style=flat-square&logoColor=white)
+![Vapi](https://img.shields.io/badge/Vapi-5865F2?style=flat-square&logoColor=white)
 
-**Full-Stack & SaaS**
+**🌐 Full-Stack & SaaS**
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
 
-**AI Backend & APIs**
+**⚙️ AI Backend & APIs**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-1D72B8?style=flat-square&logo=pinecone&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=black)
+![Pinecone](https://img.shields.io/badge/Pinecone-1D72B8?style=flat-square&logoColor=white)
 
-**ML & Data**
+**🧠 ML & Data**
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 </div>
 
-<br/>
+---
 
-## 〔 Featured Builds 〕
+## 🚀 Featured Builds
 
 <div align="center">
 
@@ -112,7 +113,7 @@
 <td align="center" width="50%">
 
 ### 🎙️ Title Voice — Full-Stack Voice Agent
-AI voice agent with real-time STT/TTS, n8n automation backbone, custom voice pipeline & full-stack dashboard
+End-to-end voice agent: STT → LLM reasoning → TTS with real-time response, automation backend & full-stack dashboard
 <br/><br/>
 `Voice AI` `n8n` `FastAPI` `Next.js` `OpenAI`
 
@@ -137,26 +138,26 @@ Cross-language RAG with Pinecone vector search, HuggingFace embeddings & Gemini 
 </td>
 <td align="center" width="50%">
 
-### 🌐 [Web Design Components](https://github.com/nafiurrahmanniloy/Web-design-components-)
-Production-ready animated component library — 110+ components for SaaS & landing pages
+### 🎬 [AI Reel Generation](https://github.com/nafiurrahmanniloy/AI-Reel-generation)
+Fully automated short-form video pipeline — script to final reel using AI with zero manual steps
 <br/><br/>
-`Next.js` `TypeScript` `Framer Motion` `Tailwind`
+`Python` `n8n` `OpenAI` `Video AI`
 
 </td>
 </tr>
 <tr>
 <td align="center" width="50%">
 
-### 🎬 [AI Reel Generation](https://github.com/nafiurrahmanniloy/AI-Reel-generation)
-Fully automated short-form video pipeline from script to final reel using AI
+### 📧 [Spam Detection](https://github.com/nafiurrahmanniloy/Mail-HAM-SPAM-Detection)
+Email HAM/SPAM classifier using NLP & Naive Bayes — trained & deployed ML pipeline
 <br/><br/>
-`Python` `n8n` `OpenAI` `Video AI`
+`Python` `NLP` `scikit-learn`
 
 </td>
 <td align="center" width="50%">
 
 ### 📊 [RFM Customer Segmentation](https://github.com/nafiurrahmanniloy/RFM-Analysis-using-K-means-clustering)
-Advanced customer segmentation using RFM analysis + K-Means clustering
+Customer segmentation using RFM analysis + K-Means clustering with visual insights
 <br/><br/>
 `Python` `Pandas` `scikit-learn` `K-Means`
 
@@ -166,13 +167,13 @@ Advanced customer segmentation using RFM analysis + K-Means clustering
 
 </div>
 
-<br/>
+---
 
-## 〔 GitHub Stats 〕
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=nafiurrahmanniloy&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&ring_color=8B5CF6"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=nafiurrahmanniloy&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9"/>
 <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafiurrahmanniloy&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9"/>
 
 <br/>
@@ -181,21 +182,21 @@ Advanced customer segmentation using RFM analysis + K-Means clustering
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nafiurrahmanniloy&bg_color=0d1117&color=A78BFA&line=8B5CF6&point=EC4899&area=true&area_color=8B5CF620&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nafiurrahmanniloy&bg_color=0d1117&color=A78BFA&line=8B5CF6&point=EC4899&area=true&hide_border=true"/>
 
 </div>
 
-<br/>
+---
 
-## 〔 Trophies 〕
+## 🏆 Trophies
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=nafiurrahmanniloy&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10"/>
 </div>
 
-<br/>
+---
 
-## 〔 Contribution Snake 〕
+## 🐍 Contribution Snake
 
 <div align="center">
 <picture>
@@ -205,11 +206,11 @@ Advanced customer segmentation using RFM analysis + K-Means clustering
 </picture>
 </div>
 
-<br/>
+---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302B63,100:0F0C29&height=120&section=footer&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E54E9,100:4776E6&height=120&section=footer&animation=fadeIn"/>
 
 *Building systems that think, speak, and automate — so humans don't have to.*
 
