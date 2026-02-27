@@ -180,30 +180,7 @@ Customer segmentation using RFM analysis + K-Means clustering with visual insigh
 
 <img src="https://streak-stats.demolab.com/?user=nafiurrahmanniloy&theme=midnight-purple&hide_border=true&background=0d1117&stroke=8B5CF6&ring=8B5CF6&fire=EC4899&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=8b949e"/>
 
-<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nafiurrahmanniloy&bg_color=0d1117&color=A78BFA&line=8B5CF6&point=EC4899&area=true&hide_border=true"/>
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=nafiurrahmanniloy&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10"/>
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nafiurrahmanniloy/nafiurrahmanniloy/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nafiurrahmanniloy/nafiurrahmanniloy/output/github-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/nafiurrahmanniloy/nafiurrahmanniloy/output/github-snake-dark.svg"/>
-</picture>
 </div>
 
 ---
