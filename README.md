@@ -47,8 +47,8 @@ I build **AI chatbots, voice agents, and custom dashboards** that take the borin
 
 ## 🏢 Who I've Worked With
 
-- **Solnest AI** *(Apr 2026 – Present)* — Building AI lead-generation systems and dashboards for short-term rental operators
-- **Voltaris Labs** *(Jan – Mar 2026)* — Voice agents and AI video pipelines for medspa, STR, and accounting clients
+- **Solnest AI** *(Apr 2026 – Present)* — Lead-generation systems, custom dashboards, and AI automation for short-term rental and medspa operators
+- **Voltaris Labs** *(Jan – Mar 2026)* — Built [titlevoice.ai](https://titlevoice.ai) (voice agent) and [cravemode.ai](https://cravemode.ai) (AI video generation)
 - **Infinoz** *(Oct 2025 – Jan 2026)* — Live AI chatbot deployed at infinoz.com handling hundreds of monthly conversations
 
 ---
