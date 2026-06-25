@@ -95,12 +95,6 @@ I build **AI chatbots, voice agents, and custom dashboards** that take the borin
 
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nafiurrahmanniloy/nafiurrahmanniloy/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nafiurrahmanniloy/nafiurrahmanniloy/output/github-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/nafiurrahmanniloy/nafiurrahmanniloy/output/github-snake.svg" width="100%" />
-</picture>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 <div align="center">
