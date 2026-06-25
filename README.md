@@ -55,11 +55,11 @@ I build **AI chatbots, voice agents, and custom dashboards** that take the borin
 
 | Project | What it does |
 |---|---|
-| 🤖 **[Infinoz AI Chatbot](https://github.com/nafiurrahmanniloy/infinoz-ai-chatbot)** · `live` | Customer-facing AI assistant that answers questions and books appointments on Messenger — 200+ conversations/month at 95%+ accuracy |
-| 🚗 **[GariBazar BD](https://github.com/nafiurrahmanniloy/garibazar-bd)** ⭐ | Cinematic landing page for Bangladesh's used-car marketplace — smooth animations, dark premium feel |
-| 🎨 **[Figma → Code Tool](https://github.com/nafiurrahmanniloy/figma-skill)** ⭐ | Turns any Figma design into ready-to-use code in seconds — open source, used by other devs |
-| 🍔 **[CraveMode Mobile App](https://github.com/nafiurrahmanniloy/cravemode-mobile-app)** | AI-powered app that instantly enhances restaurant food photos & videos for social media |
-| 🌍 **[Multilingual AI Search](https://github.com/nafiurrahmanniloy/multilingual-rag-system)** ⭐ | RAG system that reads documents in one language and answers in another — built for global businesses |
+| 🏠 **[NIBASH](https://github.com/nafiurrahmanniloy/nibash)** · `flagship` | Short-term stay booking marketplace — Next.js + Expo monorepo with one shared typed contract, SSLCommerz payments, Supabase + RLS, and a strict route → service → repository architecture |
+| 🔌 **[GoHighLevel MCP Pro](https://github.com/nafiurrahmanniloy/gohighlevel-mcp-pro)** ⭐ | Hardened MCP server exposing **566 GoHighLevel CRM tools** to AI agents — lean-mode (74% smaller context), 15 bug fixes, 14 agency-grade composites |
+| 🏗️ **[Production Architecture](https://github.com/nafiurrahmanniloy/production-architecture)** ⭐ | Open-source Claude / AI-agent skill that enforces production-grade backend structure — thin routes → controllers → services → repositories. Framework & language agnostic |
+| 🌍 **[Multilingual AI Search (RAG)](https://github.com/nafiurrahmanniloy/multilingual-rag-system)** ⭐ | Reads documents in one language and answers questions in another — built with n8n, Pinecone, HuggingFace & Gemini |
+| 🍔 **[CraveMode Mobile App](https://github.com/nafiurrahmanniloy/cravemode-mobile-app)** | AI-powered React Native app that instantly enhances restaurant food photos & videos for social media |
 
 ## 🛠️ Tools I Work With
 
