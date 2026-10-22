@@ -1,113 +1,152 @@
 <div align="center">
 
 <a href="https://github.com/nafiurrahmanniloy">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=720&height=48&lines=Hi%2C+I'm+Nafiur+%F0%9F%91%8B;AI+Automation+Engineer;I+build+chatbots%2C+voice+agents+%26+dashboards;Saving+businesses+time+%26+money+with+AI" alt="Nafiur Rahman Niloy" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=32&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=820&height=65&lines=Hey%2C+I'm+Nafiur+Rahman+Niloy+%F0%9F%91%8B;AI+Automation+Engineer;Building+AI+Agents+%26+Real-World+Products;Turning+Repetitive+Work+Into+Smart+Systems" alt="Animated introduction" />
 </a>
 
-### I help businesses save time and money with AI automation.
+AI Automation Engineer · Full-Stack Builder · Problem Solver
+I build production-ready AI systems that save teams time, reduce repetitive work, and improve customer experiences.
 
-I build **AI chatbots, voice agents, and custom dashboards** that take the boring, repetitive work off your team's plate — so they can focus on what actually grows the business.
+Based in Dhaka, Bangladesh · Working with clients worldwide · Solnest AI
 
-<samp>
 
-📍 Dhaka, Bangladesh &nbsp;·&nbsp; 🌍 Working with clients worldwide &nbsp;·&nbsp; 💼 Currently at **Solnest AI**
 
-</samp>
-
-<br/>
-
-[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nafiurrahman52@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nafiur-rahman-niloy)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801731334160)
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Colorful divider" />
 
-## 💼 What I Can Build For Your Business
+👋 About Me
+I'm an AI Automation Engineer who designs and ships useful software—from customer-facing AI chatbots and voice agents to CRM integrations, dashboards, and full-stack products.
 
-| | |
-|---|---|
-| 🤖 **AI Chatbots** | Answer customer questions 24/7 on your website, Messenger, or WhatsApp |
-| 🎙️ **Voice Agents** | AI phone assistants that book appointments, qualify leads, or handle support |
-| ⚡ **Workflow Automation** | Connect your tools (Google Sheets, CRM, email, Stripe) so things run on autopilot |
-| 📊 **Custom Dashboards** | Real-time view of your sales, leads, bookings — built around how *you* work |
-| 🎯 **Lead Generation Systems** | Find, score, and follow up with leads automatically |
-| 🌐 **Websites & Web Apps** | Modern, fast websites — landing pages, SaaS dashboards, mobile apps |
+My focus is simple: solve real business problems with reliable, maintainable systems. I care about clean architecture, thoughtful user experiences, and automation that works beyond the demo.
+- 🔭 Currently: Building lead-generation systems, dashboards, and AI automations at Solnest AI.
+- 🧠 Specialties: AI agents, RAG, voice AI, workflow orchestration, and API integrations.
+- 🛠️ Engineering: TypeScript, Next.js, React Native, Python, FastAPI, PostgreSQL, and Supabase.
+- 🌍 Open to: Collaborations, freelance projects, and interesting product opportunities.
+⚡ What I Build
+Solution	Business value
+🤖 AI Chatbots & RAG	Answer customer questions and surface answers from business knowledge bases.
+🎙️ Voice AI Agents	Automate calls, appointment booking, lead qualification, and support workflows.
+🔁 Workflow Automation	Connect CRMs, email, spreadsheets, payments, and operational tools.
+📊 Custom Dashboards	Turn fragmented business data into clear, actionable insights.
+🎯 Lead Generation Systems	Find, qualify, route, and follow up with prospects more efficiently.
+🌐 Web & Mobile Apps	Ship scalable digital products with maintainable backends.
 
-## 📈 Real Results I've Delivered
 
+📌 Selected Work
+<table>
+<tr>
+<td width="50%" valign="top">
+
+🏠 NIBASH
+Flagship · Booking marketplace
+
+Next.js + Expo monorepo, shared typed contracts, SSLCommerz payments, Supabase RLS, and layered backend architecture.
+</td>
+<td width="50%" valign="top">
+
+🔌 GoHighLevel MCP Pro
+Open source · AI/CRM tooling
+
+MCP server exposing 566 CRM tools, with lean mode, agency-focused composite actions, and reliability improvements.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+🏗️ Production Architecture
+Open source · Agent skill
+
+Framework-agnostic guidance for production-grade backends with thin routes, controllers, services, and repositories.
+</td>
+<td width="50%" valign="top">
+
+🌍 Multilingual AI Search
+RAG · Multilingual retrieval
+
+Cross-language document question answering using n8n, Pinecone, Hugging Face, and Gemini.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+🍔 CraveMode Mobile
+React Native · Generative AI
+
+Mobile experience for enhancing restaurant food photos and videos for social media.
+</td>
+<td width="50%" valign="top">
+
+🎙️ TitleVoice
+Voice AI · Client work
+
+AI voice-agent product developed during my work with Voltaris Labs.
+</td>
+</tr>
+</table>
+
+💼 Experience
+Period	Organization	Focus
+Apr 2026 – Present	Solnest AI	AI automation, lead generation, and dashboards for short-term rental and medspa businesses.
+Jan – Mar 2026	Voltaris Labs	Voice AI at TitleVoice and AI video generation at CraveMode.
+Oct 2025 – Jan 2026	Infinoz	Deployed an AI chatbot supporting hundreds of customer conversations monthly.
+
+
+📈 Selected Outcomes
 <div align="center">
 
-| 200+ | 95% | 60% | 100+ |
-|:---:|:---:|:---:|:---:|
-| customer conversations<br/>handled per month | chatbot accuracy<br/>after optimization | recruiter review<br/>time saved | job applications<br/>auto-screened |
+200+	95%	60%	100+
+Monthly customer conversations handled	Chatbot accuracy after optimization	Recruiter review time saved	Applications auto-screened
+
 
 </div>
 
-## 🏢 Who I've Worked With
-
-- **Solnest AI** *(Apr 2026 – Present)* — Lead-generation systems, custom dashboards, and AI automation for short-term rental and medspa operators
-- **Voltaris Labs** *(Jan – Mar 2026)* — Built [titlevoice.ai](https://titlevoice.ai) (voice agent) and [cravemode.ai](https://cravemode.ai) (AI video generation)
-- **Infinoz** *(Oct 2025 – Jan 2026)* — Live AI chatbot deployed at infinoz.com handling hundreds of monthly conversations
-
-## 🚀 Selected Projects
-
-| Project | What it does |
-|---|---|
-| 🏠 **[NIBASH](https://github.com/nafiurrahmanniloy/nibash)** · `flagship` | Short-term stay booking marketplace — Next.js + Expo monorepo with one shared typed contract, SSLCommerz payments, Supabase + RLS, and a strict route → service → repository architecture |
-| 🔌 **[GoHighLevel MCP Pro](https://github.com/nafiurrahmanniloy/gohighlevel-mcp-pro)** ⭐ | Hardened MCP server exposing **566 GoHighLevel CRM tools** to AI agents — lean-mode (74% smaller context), 15 bug fixes, 14 agency-grade composites |
-| 🏗️ **[Production Architecture](https://github.com/nafiurrahmanniloy/production-architecture)** ⭐ | Open-source Claude / AI-agent skill that enforces production-grade backend structure — thin routes → controllers → services → repositories. Framework & language agnostic |
-| 🌍 **[Multilingual AI Search (RAG)](https://github.com/nafiurrahmanniloy/multilingual-rag-system)** ⭐ | Reads documents in one language and answers questions in another — built with n8n, Pinecone, HuggingFace & Gemini |
-| 🍔 **[CraveMode Mobile App](https://github.com/nafiurrahmanniloy/cravemode-mobile-app)** | AI-powered React Native app that instantly enhances restaurant food photos & videos for social media |
-
-## 🛠️ Tools I Work With
-
+<sub>Figures represent selected project outcomes, not GitHub statistics. Add case-study links or measurement details when available.</sub>
+🧰 Technology Stack
 <div align="center">
 
-**AI & Automation**
+AI & Automation
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&logo=elevenlabs&logoColor=white)
 
-**Web · Mobile · Backend · Data**
 
-<img src="https://skillicons.dev/icons?i=ts,nextjs,react,reactnative,tailwind,nodejs,python,fastapi,postgres,supabase&theme=dark" alt="tech stack" />
+
+
+
+Web · Mobile · Backend · Data
+<img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,nodejs,python,fastapi,postgres,supabase&theme=dark" alt="TypeScript, Next.js, React, Tailwind, Node.js, Python, FastAPI, PostgreSQL, Supabase" />
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
-## 📊 GitHub Stats
-
+📊 GitHub Activity
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nafiurrahmanniloy&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&title_color=8B5CF6&icon_color=8B5CF6" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafiurrahmanniloy&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&title_color=8B5CF6" alt="top languages" />
+Contribution streak
+<img src="https://streak-stats.demolab.com?user=nafiurrahmanniloy&theme=tokyonight&hide_border=true&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" alt="GitHub contribution streak" />
 
-<br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nafiurrahmanniloy&hide_border=true&theme=tokyonight&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" alt="streak" />
+Recent contribution activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nafiurrahmanniloy&theme=tokyo-night&hide_border=true&color=8B5CF6&line=8B5CF6&point=FFFFFF&area=true&custom_title=Recent%20Contribution%20Activity" width="100%" alt="Recent GitHub activity graph" />
+
+
+All-time GitHub overview
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=nafiurrahmanniloy&show_icons=true&hide_border=true&theme=tokyonight&title_color=8B5CF6&icon_color=8B5CF6" alt="All-time GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafiurrahmanniloy&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&title_color=8B5CF6" alt="Languages used in public repositories" />
+
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+Activity note: The streak and activity graph cover their own recent periods; the stats cards are all-time. The link above opens the GitHub calendar for 2026.
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Colorful divider" />
 
 <div align="center">
 
-## 💬 Let's Talk
+🤝 Let's Build Something Useful
+Need an AI agent, automation, dashboard, or product built around your workflow?
 
-If you have a business problem you think AI or automation could solve — even if you're not sure where to start — I'd love to hear about it.
+I enjoy turning complicated processes into practical software. Reach out with your problem, idea, or project brief.
 
-[![Email](https://img.shields.io/badge/📧%20Email-nafiurrahman52@gmail.com-EA4335?style=for-the-badge)](mailto:nafiurrahman52@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/💬%20WhatsApp-+880%201731%20334160-25D366?style=for-the-badge)](https://wa.me/8801731334160)
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=nafiurrahmanniloy&style=flat-square&color=8B5CF6&label=Profile+Views)
-
+<sub>Built with curiosity, thoughtful engineering, and a focus on real-world impact.</sub>
 </div>
