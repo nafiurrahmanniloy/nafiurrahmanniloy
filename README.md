@@ -1,85 +1,115 @@
+
 <div align="center">
 
-<a href="https://strcortex.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2800&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&height=60&lines=Hi%2C+I'm+Nafiur+Rahman+Niloy+%F0%9F%91%8B;Building+STRCortex+%E2%80%94+AI-Powered+SaaS;AI+Automation+%7C+Data+%7C+Dashboards;Turning+Business+Data+Into+Decisions" alt="Nafiur Rahman Niloy — AI Engineer and SaaS Builder" />
-</a>
+<a href="https://strcortex.com"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=27&duration=2800&pause=1000&color=8B5CF6&center=true&vCenter=true&width=720&height=55&lines=Hi%2C+I'm+Nafiur+Rahman+Niloy+%F0%9F%91%8B;Building+STRCortex+%7C+AI-Powered+SaaS;AI+Engineering+%7C+Data+%7C+Dashboards" alt="Nafiur Rahman Niloy" /></a>
 
-AI Engineer · SaaS Builder · Data & Automation
-I build AI-powered software, data systems, and custom dashboards that help businesses operate smarter.
+### AI Engineer · SaaS Builder · Data & Automation
 
-📍 Dhaka, Bangladesh  ·  🌍 Working worldwide  ·  🚀 Building STRCortex
+I build AI-powered software, data systems, and dashboards that help businesses operate smarter.
 
+**Dhaka, Bangladesh · Working worldwide · Building [STRCortex](https://strcortex.com)**
 
-
+[![STRCortex](https://img.shields.io/badge/STRCortex-8B5CF6?style=for-the-badge)](https://strcortex.com) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nafiurrahman52@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nafiur-rahman-niloy) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801731334160)
 
 </div>
 
-🚀 Featured: STRCortex
-STRCortex — AI-Powered SaaS for Business Intelligence
-My flagship project. I'm building STRCortex while working with large business datasets, custom analytics dashboards, and practical AI solutions.
-- ~$150K in customer sales / transactions processed through STRCortex — transaction volume, not STRCortex revenue.
-- Data-intensive engineering — turning large, complex datasets into usable business information.
-- Custom dashboards — building views of sales, operations, and performance around each company's needs.
-- AI-powered workflows — connecting data, automation, and decision-making in one product experience.
-Explore STRCortex →
+---
 
-<sub>Transaction volume reflects customer sales processed through STRCortex, not revenue earned by STRCortex.</sub>
-💼 What I Do
-Focus	What I deliver
-📊 Data Engineering & Dashboards	Work with large datasets and build business-specific analytics and reporting tools.
-🧠 AI Solutions	Build agents, RAG systems, and intelligent features grounded in business workflows.
-⚡ Automation & Integrations	Connect CRMs, APIs, spreadsheets, email, and operational systems.
-🎙️ Voice & Chat AI	Automate conversations, support, appointment booking, and lead qualification.
-🌐 SaaS & Full-Stack Products	Design and ship maintainable web and mobile applications.
+## 🚀 Flagship Project — STRCortex
 
+### [STRCortex · AI-Powered SaaS & Business Intelligence](https://strcortex.com)
 
-🧩 Other Selected Projects
-NIBASH — Short-term stay marketplace built with Next.js, Expo, Supabase RLS, and SSLCommerz payments.
+Building a data-intensive SaaS platform focused on practical AI solutions and custom analytics for businesses.
 
-GoHighLevel MCP Pro — MCP server exposing 566 CRM tools to AI agents, with context-efficient modes and agency-focused operations.
+> **~$150K in customer sales and transactions processed through STRCortex.** This is transaction volume, **not STRCortex revenue**.
 
-Production Architecture — Open-source AI-agent skill for structured, maintainable backend engineering.
+- **Large-scale data:** Working with complex business datasets and operational information.
+- **Custom dashboards:** Tailored views for sales, performance, and decision-making.
+- **AI solutions:** Intelligent features, workflow automation, and integrations.
+- **Product engineering:** Building and maintaining scalable SaaS applications.
 
-Multilingual AI Search — Cross-language document search and question answering with n8n, Pinecone, Hugging Face, and Gemini.
+**[Explore STRCortex →](https://strcortex.com)**
 
-CraveMode Mobile — React Native app for AI-enhanced food media.
-🏢 Experience
-Period	Team	Work
-Apr 2026 – Present	Solnest AI	Lead generation, AI automation, and dashboards for business operators.
-Jan – Mar 2026	Voltaris Labs	TitleVoice voice AI and CraveMode AI video products.
-Oct 2025 – Jan 2026	Infinoz	Production chatbot handling hundreds of monthly conversations.
+---
 
+## 💼 What I Build
 
-🛠️ Stack
+| Expertise | Business value |
+| --- | --- |
+| 📊 Data & Dashboards | Custom analytics and reporting for complex business data |
+| 🤖 AI Agents & RAG | AI-powered support, search, and business workflows |
+| ⚡ Automation | CRM, API, email, and operational integrations |
+| 🎙️ Voice & Chat AI | Appointment handling, lead qualification, and support |
+| 🌐 SaaS & Applications | Web and mobile products with maintainable architecture |
+
+---
+
+## 🧩 Selected Engineering Projects
+
+**[NIBASH](https://github.com/nafiurrahmanniloy/nibash)** — Short-term stay marketplace using Next.js, Expo, Supabase RLS, and SSLCommerz.
+
+**[GoHighLevel MCP Pro](https://github.com/nafiurrahmanniloy/gohighlevel-mcp-pro)** — MCP server exposing **566 CRM tools** to AI agents.
+
+**[Production Architecture](https://github.com/nafiurrahmanniloy/production-architecture)** — Open-source AI-agent skill for maintainable backend engineering.
+
+**[Multilingual AI Search](https://github.com/nafiurrahmanniloy/multilingual-rag-system)** — Cross-language RAG using n8n, Pinecone, Hugging Face, and Gemini.
+
+**[CraveMode Mobile](https://github.com/nafiurrahmanniloy/cravemode-mobile-app)** — React Native application for AI-enhanced food media.
+
+---
+
+## 🏢 Experience
+
+| Period | Company | Focus |
+| --- | --- | --- |
+| Apr 2026 – Present | **Solnest AI** | Lead generation, AI automation, custom dashboards |
+| Jan – Mar 2026 | **Voltaris Labs** | [TitleVoice](https://titlevoice.ai) voice AI and [CraveMode](https://cravemode.ai) |
+| Oct 2025 – Jan 2026 | **Infinoz** | Production AI chatbot handling hundreds of conversations monthly |
+
+---
+
+## 🛠️ Technology Stack
+
 <div align="center">
 
-AI · Automation · Data
+**AI · Automation · Data**
 
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" /> <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" /> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" /> <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
 
+<br />
 
+**Full-Stack · Backend · Databases**
 
+<br />
 
-Full-Stack · Backend · Databases
-<img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,nodejs,python,fastapi,postgres,supabase&theme=dark&perline=9" alt="Technology stack" />
+<img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,nodejs,python,fastapi,postgres,supabase&theme=dark&perline=9" alt="TypeScript, Next.js, React, Tailwind, Node.js, Python, FastAPI, PostgreSQL, Supabase" />
 
 </div>
 
-📈 GitHub Activity
+---
+
+## 📈 GitHub Activity
+
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nafiurrahmanniloy&theme=tokyo-night&hide_border=true&color=8B5CF6&line=8B5CF6&point=FFFFFF&area=true&custom_title=Recent%20GitHub%20Activity" width="95%" alt="Recent GitHub contribution graph" />
+<img src="https://streak-stats.demolab.com?user=nafiurrahmanniloy&theme=tokyonight&hide_border=true&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" alt="GitHub contribution streak" width="480" />
 
-<img src="https://streak-stats.demolab.com?user=nafiurrahmanniloy&theme=tokyonight&hide_border=true&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" width="55%" alt="GitHub streak" />
+<br />
 
+[![2026 GitHub Contributions](https://img.shields.io/badge/View_2026_Contributions-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nafiurrahmanniloy?tab=overview&from=2026-01-01&to=2026-12-31)
 
 </div>
 
-<sub>The graph and streak show recent activity, not exclusively 2026. The button opens the calendar for 2026.</sub>
+*The streak widget includes historical activity. Use the button for the 2026 contribution calendar.*
+
+---
+
 <div align="center">
 
-Let's Build Something That Moves the Business Forward
+### Let's Build Something That Moves Business Forward
+
 Need a custom dashboard, AI integration, or scalable SaaS product?
 
-
+[![Discuss a Project](https://img.shields.io/badge/Discuss_a_Project-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nafiurrahman52@gmail.com) [![Visit STRCortex](https://img.shields.io/badge/Visit_STRCortex-111827?style=for-the-badge)](https://strcortex.com)
 
 </div>
